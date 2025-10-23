@@ -1,2 +1,0 @@
-# Simulado-Etec
-simulado topzera
